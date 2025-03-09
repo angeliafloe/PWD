@@ -1,6 +1,6 @@
 # Mindmap Tech Stack Backend
 
-## 1. Komponen
+### 1. Komponen
   - Server-Side Languages
     - Node.js
     - Python: Bahasa pemrograman serbaguna yang sering digunakan dengan framework seperti Django atau Flask.
