@@ -23,3 +23,19 @@
     - Kompleksitas: Pemrograman yang kompleks dan membutuhkan pemahaman yang mendalam tentang teknologi dan bahasa pemrograman sehingga menjadi tantangan bagi pengembang yang baru mengenal bidang ini.
     - Keterbatasan Visual: Backend terkait dengan logika dan pemrosesan data di belakang layar, sehingga tidak terlibat dalam aspek visual dan tata letak situs web. Ini bisa menjadi kekurangan bagi mereka yang ingin berkreasi dengan desain dan estetika.
     - Biaya Pengembangan: Backend yang handal dan efisien membutuhkan waktu dan upaya dalam pengembangan, meningkatkan biaya pengembangan situs web, terutama untuk proyek yang kompleks dan membutuhkan fitur yang tinggi.
+
+### 3. Tren Backend di 2025
+  - Muncul arsitektur tanpa server
+    - Provider seperti AWS Lambda, Azure Functions, dan Google Cloud Functions memudahkan daari sebelumnya, di mana menerapkan aplikasi tanpa perlu khawatir infrastruktur yang mendasarinya. Dengan serverless dapat menimalisir biaya secara signifikaan dan menyesuaikan diri otomatis dengan permintaan aplikasi.
+  - Microservices
+    - Pemecahan aplikasi monolitik menjadi layanan lebih kecil dan independent yang dapat dikembangkan, digunakan, dan diskalakan secara mandiri. Pendekatan ini menawarkan kelincahan dan skalabilitas yang lebih besar, sehingga menjadi favorit di kalangan pengembang.
+  - AI dan Machine Learning
+    - Aplikasi yang memanfaatkan AI untuk memberi pengalaman yang lebih canggih dan personal, termasuk mesin rekomendasi, deteksi penipuan, atau analisis prediksi.
+      
+### 4. Perusahaan yang menggunakan stack BackEnd
+  - LinkedIn
+    - Social network terbesar untuk para professional ini memanfaatkan Node Js sebagai backend API untuk aplikasi mobile mereka. Node JS menjadi end point data untuk aplikasi Android dan IOS.
+  - Netflix
+    -  Situs untuk menonton dengan 33 juta member ini menggunakan Node JS sebagai backend. Selain Node JS, Netflix juga menggunakan Java, Python, dan Cssaandra dalam stacknya.
+  -  Spotify
+    - Platform tempat mendengarkan, berbagi dan membeli musik yang cukup populer di kalangan masyarakat. Dengan spotify dapat mengakses library musik di mana saja dan perangkat manapun. Spotify menggunakan Django karena backend cepat dan ada dukungan machine learning.  
