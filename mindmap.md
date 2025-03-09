@@ -12,11 +12,11 @@ mindmap
         PHP 🌐:::php
 
       Databases 🗄️
-        Relational Databases (SQL) 🟠
+        Relational Databases: SQL 🟠
           MySQL 🛢️:::sql
           PostgreSQL 🐘:::sql
           Microsoft SQL Server 💼:::sql
-        NoSQL Databases (Non-Relational) 🟢
+        NoSQL Databases: Non-Relational 🟢
           MongoDB 🍃:::nosql
           CouchDB 📄:::nosql
           Cassandra 🔷:::nosql
@@ -26,9 +26,9 @@ mindmap
           Apache 🏗️:::server
           Nginx 🚀:::server
         Hosting Providers ☁️
-          AWS (Amazon Web Services) ☁️:::cloud
-          GCP (Google Cloud Platform) 🌎:::cloud
-          Azure (Microsoft) 🔵:::cloud
+          Amazon Web Services ☁️:::cloud
+          Google Cloud Platform 🌎:::cloud
+          Azure Microsoft 🔵:::cloud
 
   classDef nodeJs fill:#68A063,stroke:#4F7E4F,color:#fff;
   classDef python fill:#FFD43B,stroke:#306998,color:#fff;
