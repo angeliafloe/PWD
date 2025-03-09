@@ -13,4 +13,4 @@ mindmap
         NoSQL Databases: MongoDB, CouchDB, Cassandra.
       Server dan Hosting
         Web Servers: Apache, Nginx.
-        Hosting Providers: AWS (Amazon Web Services), Google Cloud Platform, Microsoft Azure.
+        Hosting Providers: Amazon Web Services, Google Cloud Platform, Microsoft Azure.
