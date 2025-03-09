@@ -7,7 +7,7 @@
   - Java: Bahasa pemrograman yang sering digunakan dengan Spring framework.
   - Ruby: Digunakan dengan Ruby on Rails framework.
   - PHP: Bahasa pemrograman yang sering digunakan dengan Laravel framework.
--  Databases
+- Databases
   - Relational Databases: MySQL, PostgreSQL, Microsoft SQL Server.
   - NoSQL Databases: MongoDB, CouchDB, Cassandra.
 - Server dan Hosting
