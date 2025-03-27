@@ -1,3 +1,5 @@
+<!DOCTYPE HTML>
+<html>
 # Mindmap Tech Stack Backend: Node.Js (Angel V, Angelia F. P., Nabil)
 
 ### Apa Itu Node.js?
@@ -77,7 +79,11 @@ Fungsi Node.js:
     - Platform tempat mendengarkan, berbagi dan membeli musik yang cukup populer di kalangan masyarakat. Dengan spotify dapat mengakses library musik di mana saja dan perangkat manapun. Spotify menggunakan Django karena backend cepat dan ada dukungan machine learning.
 
 Resources: 
+<br>
 Antaweb. 2024. Apa Itu Node JS? Kenali Kelebihan, Kelemahan dan Fungsinya. https://antaweb.co.id/apa-itu-node-js-kenali-kelebihan-kelemahan-dan-fungsinya/
+<br>
 Dewaweb Team. 2024. Apa itu Node.js? Cara Kerja, Fungsi, & Manfaatnya. https://www.dewaweb.com/blog/mengenal-node-js/
+<br>
 Oliver, A. 2024. Mengenal Node.js, Salah Satu Platform Application Developer Terbaik. https://glints.com/id/lowongan/node-js-adalah/
+</html>
 
