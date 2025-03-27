@@ -96,7 +96,7 @@ Kekurangan Node.js
 <h2>Figma</h2>
 <p align="justify"> Mengapa di figma kita dapat berkolaborasi secara real time dengan lancar? itu karena adanya pemakaian Node.js sehingga dapat memastikan setiap perubahan desain bisa ditampilkan di device yang lain. </p>
 <br>
-<img src="logo-linkedin-icon-1536.png" width="500px" height="300px">
+<img src="logo-linkedin-icon-1536.png" width="300px" height="300px">
 <h2>LinkedIn</h2>
 <p align="justify"> Node.js juga dipakai dalam LinkedIn untuk membuat aplikasi mereka lebih cepat dan responsif sehingga membuat pengalaman browsing, kirim pesan atau mencari kerjaan lebih smooth. </p>
 <br><br>
