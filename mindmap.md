@@ -4,9 +4,9 @@
 # Mindmap Tech Stack Backend: Node.Js (Angel V, Angelia F. P., Nabil)
 <br>
 <h1>Apa Itu Node.js?</h1>
-<br><br>
-<p align="justify">Node.js adalah sebuah platform dengan basis JavaScript, di mana adalah lingkungan runtime yang memungkinkan eksekusi kode JavaScriptdi luar browser. Node.js digunakan dalam mengembangkan aplikasi web dengan skala besar dan cepat, ini karena berbasis arsitektur event-driven dan non-blocking I/O. Efisiensi menjadikan Node.js terkenal sebab memungkinkan pengembang memanfaatkan JavaScript untuk mengeksekusi kode di server. Node. js turut banyak digunakan dalam menyokong aplikasi dengan penanganan data real-time, memungkinkan juga dalam pembuatan aplikasi yang skalabel dan berperforma tinggi.</p>
 <br>
+<p align="justify">Node.js adalah sebuah platform dengan basis JavaScript, di mana adalah lingkungan runtime yang memungkinkan eksekusi kode JavaScriptdi luar browser. Node.js digunakan dalam mengembangkan aplikasi web dengan skala besar dan cepat, ini karena berbasis arsitektur event-driven dan non-blocking I/O. Efisiensi menjadikan Node.js terkenal sebab memungkinkan pengembang memanfaatkan JavaScript untuk mengeksekusi kode di server. Node. js turut banyak digunakan dalam menyokong aplikasi dengan penanganan data real-time, memungkinkan juga dalam pembuatan aplikasi yang skalabel dan berperforma tinggi.</p>
+
 <p align="justify">Meski Node.js adalah platform basis JavaScript, keduanya memiliki perbedaan pada penggunaannya, yakni:
 JavaScript: untuk mengembangkan sisi klien dari aplikasi web
 Node.js: untuk menjalankan JavaScript di sisi server</p>
@@ -20,7 +20,7 @@ Node.js tepat digunakan pada saat:
 <br>
 3. Saat memerlukan pengolahan data seketika dan sinkronisasi cepat
 </p>
-<br><br>
+<br>
 Fungsi Node.js:
 <br>
 1. Pengembangan server-side
@@ -38,9 +38,9 @@ Fungsi Node.js:
 <p align="justify">3. Design Pattern: tool untuk menyusun kode dengan cara memungkinkan developer mendapatkan beberapa kelebihan (waktu pengembangan lebih cepat, kode yang dapat digunakan kembali, dst). Dalam Node.js terdapat dua jenis, object pool (kumpulan objek yang dapat digunakan untuk task tertentu) dan facade (tools memberi tampilan antarmuka untuk body kode, sehingga meringankan beban developer).</p>
 <br>
 <h1>Kekurangan dan Kelebihan Node.js</h1>
-<br><br>
-Kelebihan Node.js
 <br>
+Kelebihan Node.js
+<br><br>
 <p align="justify">1. Performa Tinggi
 <br>
 -> Kinerja tinggi dan kemampuan menangani banyak koneksi dengan bersamaan, berkat penggunaan mesin JavaScript V8 Chrome yang efisien</p>
@@ -60,11 +60,10 @@ Kelebihan Node.js
 -> Platform gratis untuk digunakan dan dimodifikasi, ini juga berarti bahwa ada banyak komunitas pengembang yang berkontribusi pada pengembangan platform, sehingga dapat membantu meningkatkan kualitas dan kecepatan pengembangan.</p>
 <br>
 Kekurangan Node.js
-<br> 
+<br><br>
 <p align="justify">1. Kurang Matang
 <br>
 -> Ini karena platform ini relatif baru dibandingkan dengan platform back-end lain. Platform masih berada pada tahap pengembangan (tidak semua fitur yang dibutuhkan ada untuk membangun aplikasi kompleks)</p>
-<br>  
 <p align="justify">2. Kurang Dukungan untuk Beberapa Bahasa Pemrograman
 <br>
 -> Node.js hanya mendukung JavaScript
