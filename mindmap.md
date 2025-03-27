@@ -24,17 +24,43 @@ Fungsi Node.js:
 2. Libuv Library: berfungsi mengoperasikan asynchronous I/O input maupun output dan main event loop dalam Node.js.
 3. Design Pattern: tool untuk menyusun kode dengan cara memungkinkan developer mendapatkan beberapa kelebihan (waktu pengembangan lebih cepat, kode yang dapat digunakan kembali, dst). Dalam Node.js terdapat dua jenis, object pool (kumpulan objek yang dapat digunakan untuk task tertentu) dan facade (tools memberi tampilan antarmuka untuk body kode, sehingga meringankan beban developer).
 
-### Kekurangan dan Kelebihan
-  - Kelebihan
-    - Scalability: Backend memungkinkan pengembang untuk mengelola data dan operasi yang kompleks. Ini memungkinkan situs web untuk ditingkatkan dan disesuaikan sesuai dengan pertumbuhan dan kebutuhan bisnis.
-    - Keamanan: Backend bertanggung jawab untuk mengelola dan melindungi data sensitif dari serangan. Dengan menggunakan protokol keamanan seperti enkripsi dan otentikasi, backend memastikan bahwa informasi pribadi pengguna aman dan terlindungi.
-    - Kecepatan: Backend memiliki peran penting dalam memproses permintaan dari pengguna dan memberikan hasil dengan cepat. Dengan mengoptimalkan kode dan server, pengembang backend dapat memastikan kecepatan dan kinerja yang baik.
-  - Kekurangan
-    - Kompleksitas: Pemrograman yang kompleks dan membutuhkan pemahaman yang mendalam tentang teknologi dan bahasa pemrograman sehingga menjadi tantangan bagi pengembang yang baru mengenal bidang ini.
-    - Keterbatasan Visual: Backend terkait dengan logika dan pemrosesan data di belakang layar, sehingga tidak terlibat dalam aspek visual dan tata letak situs web. Ini bisa menjadi kekurangan bagi mereka yang ingin berkreasi dengan desain dan estetika.
-    - Biaya Pengembangan: Backend yang handal dan efisien membutuhkan waktu dan upaya dalam pengembangan, meningkatkan biaya pengembangan situs web, terutama untuk proyek yang kompleks dan membutuhkan fitur yang tinggi.
+### Kekurangan dan Kelebihan Node.js
 
-### Tren Backend di 2025
+- Kelebihan Node.js
+  
+1. Performa Tinggi
+-> Kinerja tinggi dan kemampuan menangani banyak koneksi dengan bersamaan, berkat penggunaan mesin JavaScript V8 Chrome yang efisien
+   
+2. Pengembangan Cepat
+-> Memungkinkan JavaScript di seluruh stack yang dapat mempercepat pengembangan aplikasi.
+   
+3. Skalabilitas
+-> Scalable dan dapat dengan mudah dikonfigurasi untuk menangani peningkatan traffic. Microservices dan model event-driven Node.js membuatnya mudah untuk menskalakan aplikasi secara horizontal dengan menambahkan lebih banyak server.
+   
+4. Efisiensi Sumber Daya
+-> Dikarenakan menggunakan sumber daya CPU dn memori secar efisien sehingga tepat untuk aplikasi yang perlu berjalan di server dengan sumber daya terbatas.
+   
+5. Banyak Pilihan Framework & Library
+-> Menjadikan dapat menemukan framework dan library untuk berbagai keperluan, seperti pengembangan web, API, microservices, dan real-time applications.
+   
+6. Open Source
+-> Platform gratis untuk digunakan dan dimodifikasi, ini juga berarti bahwa ada banyak komunitas pengembang yang berkontribusi pada pengembangan platform, sehingga dapat membantu meningkatkan kualitas dan kecepatan pengembangan.
+      
+- Kekurangan Node.js
+  
+1. Kurang Matang
+-> Ini karena platform ini relatif baru dibandingkan dengan platform back-end lain. Platform masih berada pada tahap pengembangan (tidak semua fitur yang dibutuhkan ada untuk membangun aplikasi kompleks)
+   
+2. Kurang Dukungan untuk Beberapa Bahasa Pemrograman
+-> Node.js hanya mendukung JavaScript
+
+3. Keamanan
+-> Node.js adalah platform yang berjalan pada JavaScript, di mana memiliki beberapa kerentanan keamanan. Perlu berhati-hati saat digunakan karena secara keamanan masih rentan.
+   
+4. Kurangnya Dukungan dari Perusahaan Besar
+-> Node.js belum banyak diadopsi perusahaan besar dibandingkan platform back-end lainnya, ini berarti akan lebih sulit untuk menemukan pengembang Node.js yang berpengalaman dan mendapatkan dukungan perusahaan besar.
+
+### Tren Node.js di 2025
   - Muncul arsitektur tanpa server
     - Provider seperti AWS Lambda, Azure Functions, dan Google Cloud Functions memudahkan daari sebelumnya, di mana menerapkan aplikasi tanpa perlu khawatir infrastruktur yang mendasarinya. Dengan serverless dapat menimalisir biaya secara signifikaan dan menyesuaikan diri otomatis dengan permintaan aplikasi.
   - Microservices
@@ -51,5 +77,7 @@ Fungsi Node.js:
     - Platform tempat mendengarkan, berbagi dan membeli musik yang cukup populer di kalangan masyarakat. Dengan spotify dapat mengakses library musik di mana saja dan perangkat manapun. Spotify menggunakan Django karena backend cepat dan ada dukungan machine learning.
 
 Resources: 
+Antaweb. 2024. Apa Itu Node JS? Kenali Kelebihan, Kelemahan dan Fungsinya. https://antaweb.co.id/apa-itu-node-js-kenali-kelebihan-kelemahan-dan-fungsinya/
 Dewaweb Team. 2024. Apa itu Node.js? Cara Kerja, Fungsi, & Manfaatnya. https://www.dewaweb.com/blog/mengenal-node-js/
 Oliver, A. 2024. Mengenal Node.js, Salah Satu Platform Application Developer Terbaik. https://glints.com/id/lowongan/node-js-adalah/
+
