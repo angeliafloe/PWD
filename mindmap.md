@@ -77,6 +77,7 @@ Kekurangan Node.js
 -> Node.js belum banyak diadopsi perusahaan besar dibandingkan platform back-end lainnya, ini berarti akan lebih sulit untuk menemukan pengembang Node.js yang berpengalaman dan mendapatkan dukungan perusahaan besar. 
 <br>
 </p>
+<br>
 <h1>Tren Node.js di 2025</h1>
 <br>
 - Muncul arsitektur tanpa server
@@ -85,7 +86,7 @@ Kekurangan Node.js
 - Pemecahan aplikasi monolitik menjadi layanan lebih kecil dan independent yang dapat dikembangkan, digunakan, dan diskalakan secara mandiri. Pendekatan ini menawarkan kelincahan dan skalabilitas yang lebih besar, sehingga menjadi favorit di kalangan pengembang.
 - AI dan Machine Learning
 - Aplikasi yang memanfaatkan AI untuk memberi pengalaman yang lebih canggih dan personal, termasuk mesin rekomendasi, deteksi penipuan, atau analisis prediksi.
-<br>
+<br><br>
 <h1>Perusahaan yang menggunakan Node.js</h1>
 <br>
 <img src="Netflix-1.jpg" width="500px" height="300px">
