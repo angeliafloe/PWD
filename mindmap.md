@@ -23,15 +23,16 @@ Fungsi Node.js:
 3. Sebagai API
 4. Pengembangan aplikasi sisi klien dan server dengan JavaScript
 <br>
-### Komponen Node.js
+
+<h>Komponen Node.js</h>
 <br>
 1. Javascript V8: sebuah kompiler yang dibentuk menggunakan bahasa C++, dengan komponen ini input berupa kode JavaScript dapat di compile menjadi kumpulan kode dalam tingkat assembly. Ada 3 komponen pada JavaScript: compiler (mengubah JavaScript menjadi bahasa pemrograman lain sesuai kebutuhan developer), optimizer (tool untuk mengoptimalkan aplikasi baru), dan garbage collector (memudahkan aplikasi lama ke penyimampanan agar kinerja Node.js tetap ringan).
 2. Libuv Library: berfungsi mengoperasikan asynchronous I/O input maupun output dan main event loop dalam Node.js.
 3. Design Pattern: tool untuk menyusun kode dengan cara memungkinkan developer mendapatkan beberapa kelebihan (waktu pengembangan lebih cepat, kode yang dapat digunakan kembali, dst). Dalam Node.js terdapat dua jenis, object pool (kumpulan objek yang dapat digunakan untuk task tertentu) dan facade (tools memberi tampilan antarmuka untuk body kode, sehingga meringankan beban developer).
 <br>
-### Kekurangan dan Kelebihan Node.js
+<h>Kekurangan dan Kelebihan Node.js</h>
 <br>
-- Kelebihan Node.js
+Kelebihan Node.js
   
 1. Performa Tinggi
 -> Kinerja tinggi dan kemampuan menangani banyak koneksi dengan bersamaan, berkat penggunaan mesin JavaScript V8 Chrome yang efisien
@@ -51,7 +52,7 @@ Fungsi Node.js:
 6. Open Source
 -> Platform gratis untuk digunakan dan dimodifikasi, ini juga berarti bahwa ada banyak komunitas pengembang yang berkontribusi pada pengembangan platform, sehingga dapat membantu meningkatkan kualitas dan kecepatan pengembangan.
       
-- Kekurangan Node.js
+Kekurangan Node.js
   
 1. Kurang Matang
 -> Ini karena platform ini relatif baru dibandingkan dengan platform back-end lain. Platform masih berada pada tahap pengembangan (tidak semua fitur yang dibutuhkan ada untuk membangun aplikasi kompleks)
@@ -66,7 +67,7 @@ Fungsi Node.js:
 -> Node.js belum banyak diadopsi perusahaan besar dibandingkan platform back-end lainnya, ini berarti akan lebih sulit untuk menemukan pengembang Node.js yang berpengalaman dan mendapatkan dukungan perusahaan besar.
    
 <br>
-### Tren Node.js di 2025
+<h>Tren Node.js di 2025</h>
 <br>
   - Muncul arsitektur tanpa server
     - Provider seperti AWS Lambda, Azure Functions, dan Google Cloud Functions memudahkan daari sebelumnya, di mana menerapkan aplikasi tanpa perlu khawatir infrastruktur yang mendasarinya. Dengan serverless dapat menimalisir biaya secara signifikaan dan menyesuaikan diri otomatis dengan permintaan aplikasi.
@@ -76,7 +77,7 @@ Fungsi Node.js:
     - Aplikasi yang memanfaatkan AI untuk memberi pengalaman yang lebih canggih dan personal, termasuk mesin rekomendasi, deteksi penipuan, atau analisis prediksi.
 
 <br>
-### Perusahaan yang menggunakan stack BackEnd
+<h>Perusahaan yang menggunakan Node.js</h>
 <br>
   - LinkedIn
     - Social network terbesar untuk para professional ini memanfaatkan Node Js sebagai backend API untuk aplikasi mobile mereka. Node JS menjadi end point data untuk aplikasi Android dan IOS.
@@ -84,7 +85,7 @@ Fungsi Node.js:
     -  Situs untuk menonton dengan 33 juta member ini menggunakan Node JS sebagai backend. Selain Node JS, Netflix juga menggunakan Java, Python, dan Cssaandra dalam stacknya.
   -  Spotify
     - Platform tempat mendengarkan, berbagi dan membeli musik yang cukup populer di kalangan masyarakat. Dengan spotify dapat mengakses library musik di mana saja dan perangkat manapun. Spotify menggunakan Django karena backend cepat dan ada dukungan machine learning.
-<br>
+<br><br>
 Resources:
 <br>
 Antaweb. 2024. Apa Itu Node JS? Kenali Kelebihan, Kelemahan dan Fungsinya. https://antaweb.co.id/apa-itu-node-js-kenali-kelebihan-kelemahan-dan-fungsinya/
