@@ -13,11 +13,13 @@ Node.js: untuk menjalankan JavaScript di sisi server</p>
 
 Node.js tepat digunakan pada saat:
 <br>
+<p align="justify">
 1. Melakukan pengembangan aplikasi real-time, seperti aplikasi chatting
 <br>
 2. Pembangunan API untuk sistem yang besar
 <br>
 3. Saat memerlukan pengolahan data seketika dan sinkronisasi cepat
+</p>
 <br><br>
 Fungsi Node.js:
 <br>
@@ -30,7 +32,7 @@ Fungsi Node.js:
 4. Pengembangan aplikasi sisi klien dan server dengan JavaScript
 <br><br>
 <h1>Komponen Node.js</h1>
-<br><br>
+<br>
 <p align="justify">1. Javascript V8: sebuah kompiler yang dibentuk menggunakan bahasa C++, dengan komponen ini input berupa kode JavaScript dapat di compile menjadi kumpulan kode dalam tingkat assembly. Ada 3 komponen pada JavaScript: compiler (mengubah JavaScript menjadi bahasa pemrograman lain sesuai kebutuhan developer), optimizer (tool untuk mengoptimalkan aplikasi baru), dan garbage collector (memudahkan aplikasi lama ke penyimampanan agar kinerja Node.js tetap ringan) </p>
 <p align="justify">2. Libuv Library: berfungsi mengoperasikan asynchronous I/O input maupun output dan main event loop dalam Node.js.</p>
 <p align="justify">3. Design Pattern: tool untuk menyusun kode dengan cara memungkinkan developer mendapatkan beberapa kelebihan (waktu pengembangan lebih cepat, kode yang dapat digunakan kembali, dst). Dalam Node.js terdapat dua jenis, object pool (kumpulan objek yang dapat digunakan untuk task tertentu) dan facade (tools memberi tampilan antarmuka untuk body kode, sehingga meringankan beban developer).</p>
@@ -63,13 +65,16 @@ Kekurangan Node.js
 <br>
 -> Ini karena platform ini relatif baru dibandingkan dengan platform back-end lain. Platform masih berada pada tahap pengembangan (tidak semua fitur yang dibutuhkan ada untuk membangun aplikasi kompleks)</p>
 <br>  
-2. Kurang Dukungan untuk Beberapa Bahasa Pemrograman
+<p align="justify">2. Kurang Dukungan untuk Beberapa Bahasa Pemrograman
+<br>
 -> Node.js hanya mendukung JavaScript
 <br>
-3. Keamanan
+<p align="justify">3. Keamanan
+<br>
 -> Node.js adalah platform yang berjalan pada JavaScript, di mana memiliki beberapa kerentanan keamanan. Perlu berhati-hati saat digunakan karena secara keamanan masih rentan.
 <br>   
-4. Kurangnya Dukungan dari Perusahaan Besar
+<p align="justify">4. Kurangnya Dukungan dari Perusahaan Besar
+<br>
 -> Node.js belum banyak diadopsi perusahaan besar dibandingkan platform back-end lainnya, ini berarti akan lebih sulit untuk menemukan pengembang Node.js yang berpengalaman dan mendapatkan dukungan perusahaan besar. 
 <br>
 </p>
@@ -92,7 +97,7 @@ Situs untuk menonton dengan 33 juta member ini menggunakan Node JS sebagai backe
 Platform tempat mendengarkan, berbagi dan membeli musik yang cukup populer di kalangan masyarakat. Dengan spotify dapat mengakses library musik di mana saja dan perangkat manapun. Spotify menggunakan Django karena backend cepat dan ada dukungan machine learning.
 <br><br>
 <p align="justify">
-Resources:
+<h1>Resources:</h1>
 <br>
 Antaweb. 2024. Apa Itu Node JS? Kenali Kelebihan, Kelemahan dan Fungsinya. https://antaweb.co.id/apa-itu-node-js-kenali-kelebihan-kelemahan-dan-fungsinya/
 <br>
