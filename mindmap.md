@@ -88,12 +88,17 @@ Kekurangan Node.js
 <br>
 <h1>Perusahaan yang menggunakan Node.js</h1>
 <br>
-- LinkedIn
-Social network terbesar untuk para professional ini memanfaatkan Node Js sebagai backend API untuk aplikasi mobile mereka. Node JS menjadi end point data untuk aplikasi Android dan IOS.
-- Netflix
-Situs untuk menonton dengan 33 juta member ini menggunakan Node JS sebagai backend. Selain Node JS, Netflix juga menggunakan Java, Python, dan Cssaandra dalam stacknya.
--  Spotify
-Platform tempat mendengarkan, berbagi dan membeli musik yang cukup populer di kalangan masyarakat. Dengan spotify dapat mengakses library musik di mana saja dan perangkat manapun. Spotify menggunakan Django karena backend cepat dan ada dukungan machine learning.
+<img src="">
+<h2>Netflix</h2>
+<p align="justify"> Netflix sendiri juga menggunakan Node.js sehingga saat streaming film smooth dan tidak ada buffer. Node.js digunakan untuk mengatur server mereka yang padat sehingga meskipun diakses banyak orang dengan bersamaan akan tetap berjalan. </p>
+<br>
+<img src="">
+<h2>Figma</h2>
+<p align="justify"> Mengapa di figma kita dapat berkolaborasi secara real time dengan lancar? itu karena adanya pemakaian Node.js sehingga dapat memastikan setiap perubahan desain bisa ditampilkan di device yang lain. </p>
+<br>
+<img src="">
+<h2>LinkedIn</h2>
+<p align="justify"> Node.js juga dipakai dalam LinkedIn untuk membuat aplikasi mereka lebih cepat dan responsif sehingga membuat pengalaman browsing, kirim pesan atau mencari kerjaan lebih smooth. </p>
 <br><br>
 <p align="justify">
 <h1>Resources:</h1>
@@ -103,6 +108,8 @@ Antaweb. 2024. Apa Itu Node JS? Kenali Kelebihan, Kelemahan dan Fungsinya. https
 Dewaweb Team. 2024. Apa itu Node.js? Cara Kerja, Fungsi, & Manfaatnya. https://www.dewaweb.com/blog/mengenal-node-js/
 <br>
 Oliver, A. 2024. Mengenal Node.js, Salah Satu Platform Application Developer Terbaik. https://glints.com/id/lowongan/node-js-adalah/
+<br>
+Putri, F. 2024. Apa Itu Node Js? Definisi, Fungsi, Proses Kerja, & Contoh. https://dibimbing.id/blog/detail/apa-itu-node-js-definisi-fungsi-proses-kerja-contoh
 </p>
 </html>
 
