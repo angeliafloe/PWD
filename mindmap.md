@@ -20,18 +20,9 @@ Fungsi Node.js:
 4. Pengembangan aplikasi sisi klien dan server dengan JavaScript
    
 ### Komponen Node.js
-  - Server-Side Languages
-    - Node.js
-    - Python: Bahasa pemrograman serbaguna yang sering digunakan dengan framework seperti Django atau Flask.
-    - Java: Bahasa pemrograman yang sering digunakan dengan Spring framework.
-    - Ruby: Digunakan dengan Ruby on Rails framework.
-    - PHP: Bahasa pemrograman yang sering digunakan dengan Laravel framework.
-  - Databases
-    - Relational Databases: MySQL, PostgreSQL, Microsoft SQL Server.
-    - NoSQL Databases: MongoDB, CouchDB, Cassandra.
-  - Server dan Hosting
-    - Web Servers: Apache, Nginx.
-    - Hosting Providers: Amazon Web Services, Google Cloud Platform, Microsoft Azure.
+1. Javascript V8: sebuah kompiler yang dibentuk menggunakan bahasa C++, dengan komponen ini input berupa kode JavaScript dapat di compile menjadi kumpulan kode dalam tingkat assembly. Ada 3 komponen pada JavaScript: compiler (mengubah JavaScript menjadi bahasa pemrograman lain sesuai kebutuhan developer), optimizer (tool untuk mengoptimalkan aplikasi baru), dan garbage collector (memudahkan aplikasi lama ke penyimampanan agar kinerja Node.js tetap ringan).
+2. Libuv Library: berfungsi mengoperasikan asynchronous I/O input maupun output dan main event loop dalam Node.js.
+3. Design Pattern: tool untuk menyusun kode dengan cara memungkinkan developer mendapatkan beberapa kelebihan (waktu pengembangan lebih cepat, kode yang dapat digunakan kembali, dst). Dalam Node.js terdapat dua jenis, object pool (kumpulan objek yang dapat digunakan untuk task tertentu) dan facade (tools memberi tampilan antarmuka untuk body kode, sehingga meringankan beban developer).
 
 ### Kekurangan dan Kelebihan
   - Kelebihan
@@ -60,5 +51,5 @@ Fungsi Node.js:
     - Platform tempat mendengarkan, berbagi dan membeli musik yang cukup populer di kalangan masyarakat. Dengan spotify dapat mengakses library musik di mana saja dan perangkat manapun. Spotify menggunakan Django karena backend cepat dan ada dukungan machine learning.
 
 Resources: 
-Dewaweb. 2024. Apa itu Node.js? Cara Kerja, Fungsi, & Manfaatnya. https://www.dewaweb.com/blog/mengenal-node-js/
-
+Dewaweb Team. 2024. Apa itu Node.js? Cara Kerja, Fungsi, & Manfaatnya. https://www.dewaweb.com/blog/mengenal-node-js/
+Oliver, A. 2024. Mengenal Node.js, Salah Satu Platform Application Developer Terbaik. https://glints.com/id/lowongan/node-js-adalah/
