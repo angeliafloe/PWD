@@ -1,4 +1,4 @@
-# Mindmap Tech Stack Backend
+# Mindmap Tech Stack Backend: Node.Js
 
 ### 1. Komponen
   - Server-Side Languages
