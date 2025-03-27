@@ -3,14 +3,14 @@
    
 # Mindmap Tech Stack Backend: Node.Js (Angel V, Angelia F. P., Nabil)
 <br>
-<h>Apa Itu Node.js?</h>
+<h1>Apa Itu Node.js?</h1>
 <br><br>
 <p align="justify">Node.js adalah sebuah platform dengan basis JavaScript, di mana adalah lingkungan runtime yang memungkinkan eksekusi kode JavaScriptdi luar browser. Node.js digunakan dalam mengembangkan aplikasi web dengan skala besar dan cepat, ini karena berbasis arsitektur event-driven dan non-blocking I/O. Efisiensi menjadikan Node.js terkenal sebab memungkinkan pengembang memanfaatkan JavaScript untuk mengeksekusi kode di server. Node. js turut banyak digunakan dalam menyokong aplikasi dengan penanganan data real-time, memungkinkan juga dalam pembuatan aplikasi yang skalabel dan berperforma tinggi.</p>
 <br>
 <p align="justify">Meski Node.js adalah platform basis JavaScript, keduanya memiliki perbedaan pada penggunaannya, yakni:
 JavaScript: untuk mengembangkan sisi klien dari aplikasi web
 Node.js: untuk menjalankan JavaScript di sisi server</p>
-<br>
+
 Node.js tepat digunakan pada saat:
 <br>
 1. Melakukan pengembangan aplikasi real-time, seperti aplikasi chatting
@@ -18,7 +18,7 @@ Node.js tepat digunakan pada saat:
 2. Pembangunan API untuk sistem yang besar
 <br>
 3. Saat memerlukan pengolahan data seketika dan sinkronisasi cepat
-<br>
+<br><br>
 Fungsi Node.js:
 <br>
 1. Pengembangan server-side
@@ -28,15 +28,15 @@ Fungsi Node.js:
 3. Sebagai API
 <br>
 4. Pengembangan aplikasi sisi klien dan server dengan JavaScript
-<br>
-<h>Komponen Node.js</h>
-<br>
+<br><br>
+<h1>Komponen Node.js</h1>
+<br><br>
 <p align="justify">1. Javascript V8: sebuah kompiler yang dibentuk menggunakan bahasa C++, dengan komponen ini input berupa kode JavaScript dapat di compile menjadi kumpulan kode dalam tingkat assembly. Ada 3 komponen pada JavaScript: compiler (mengubah JavaScript menjadi bahasa pemrograman lain sesuai kebutuhan developer), optimizer (tool untuk mengoptimalkan aplikasi baru), dan garbage collector (memudahkan aplikasi lama ke penyimampanan agar kinerja Node.js tetap ringan) </p>
 <p align="justify">2. Libuv Library: berfungsi mengoperasikan asynchronous I/O input maupun output dan main event loop dalam Node.js.</p>
 <p align="justify">3. Design Pattern: tool untuk menyusun kode dengan cara memungkinkan developer mendapatkan beberapa kelebihan (waktu pengembangan lebih cepat, kode yang dapat digunakan kembali, dst). Dalam Node.js terdapat dua jenis, object pool (kumpulan objek yang dapat digunakan untuk task tertentu) dan facade (tools memberi tampilan antarmuka untuk body kode, sehingga meringankan beban developer).</p>
-<br><br>
-<h>Kekurangan dan Kelebihan Node.js</h>
 <br>
+<h1>Kekurangan dan Kelebihan Node.js</h1>
+<br><br>
 Kelebihan Node.js
 <br>
 <p align="justify">1. Performa Tinggi
@@ -73,7 +73,7 @@ Kekurangan Node.js
 -> Node.js belum banyak diadopsi perusahaan besar dibandingkan platform back-end lainnya, ini berarti akan lebih sulit untuk menemukan pengembang Node.js yang berpengalaman dan mendapatkan dukungan perusahaan besar. 
 <br>
 </p>
-<h>Tren Node.js di 2025</h>
+<h1>Tren Node.js di 2025</h1>
 <br>
 - Muncul arsitektur tanpa server
 - Provider seperti AWS Lambda, Azure Functions, dan Google Cloud Functions memudahkan daari sebelumnya, di mana menerapkan aplikasi tanpa perlu khawatir infrastruktur yang mendasarinya. Dengan serverless dapat menimalisir biaya secara signifikaan dan menyesuaikan diri otomatis dengan permintaan aplikasi.
@@ -82,7 +82,7 @@ Kekurangan Node.js
 - AI dan Machine Learning
 - Aplikasi yang memanfaatkan AI untuk memberi pengalaman yang lebih canggih dan personal, termasuk mesin rekomendasi, deteksi penipuan, atau analisis prediksi.
 <br>
-<h>Perusahaan yang menggunakan Node.js</h>
+<h1>Perusahaan yang menggunakan Node.js</h1>
 <br>
 - LinkedIn
 Social network terbesar untuk para professional ini memanfaatkan Node Js sebagai backend API untuk aplikasi mobile mereka. Node JS menjadi end point data untuk aplikasi Android dan IOS.
