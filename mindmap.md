@@ -12,7 +12,7 @@ JavaScript: untuk mengembangkan sisi klien dari aplikasi web
 Node.js: untuk menjalankan JavaScript di sisi server</p>
 <br>
 Node.js tepat digunakan pada saat:
-<br>
+<br><br>
 <p align="justify">
 1. Melakukan pengembangan aplikasi real-time, seperti aplikasi chatting
 <br>
