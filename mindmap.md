@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="id">
    
-# Mindmap Tech Stack Backend: Node.Js (Angel V, Angelia F. P., Nabil)
+# Mindmap Tech Stack Backend: Node.Js (Angel V, Angelia F. P., Nabiel)
 <br>
 <h1>Apa Itu Node.js?</h1>
 <br>
