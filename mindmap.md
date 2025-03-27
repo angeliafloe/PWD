@@ -88,15 +88,15 @@ Kekurangan Node.js
 <br>
 <h1>Perusahaan yang menggunakan Node.js</h1>
 <br>
-<img src="Netflix-1.jpg">
+<img src="Netflix-1.jpg" width="500px" height="300px">
 <h2>Netflix</h2>
 <p align="justify"> Netflix sendiri juga menggunakan Node.js sehingga saat streaming film smooth dan tidak ada buffer. Node.js digunakan untuk mengatur server mereka yang padat sehingga meskipun diakses banyak orang dengan bersamaan akan tetap berjalan. </p>
 <br>
-<img src="e1906d9b-540d-4ebd-b432-a8cf00472848-cover.png">
+<img src="e1906d9b-540d-4ebd-b432-a8cf00472848-cover.png" width="500px" height="300px">
 <h2>Figma</h2>
 <p align="justify"> Mengapa di figma kita dapat berkolaborasi secara real time dengan lancar? itu karena adanya pemakaian Node.js sehingga dapat memastikan setiap perubahan desain bisa ditampilkan di device yang lain. </p>
 <br>
-<img src="logo-linkedin-icon-1536.png">
+<img src="logo-linkedin-icon-1536.png" width="500px" height="300px">
 <h2>LinkedIn</h2>
 <p align="justify"> Node.js juga dipakai dalam LinkedIn untuk membuat aplikasi mereka lebih cepat dan responsif sehingga membuat pengalaman browsing, kirim pesan atau mencari kerjaan lebih smooth. </p>
 <br><br>
