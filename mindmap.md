@@ -14,14 +14,19 @@ Node.js: untuk menjalankan JavaScript di sisi server</p>
 Node.js tepat digunakan pada saat:
 <br>
 1. Melakukan pengembangan aplikasi real-time, seperti aplikasi chatting
+<br>
 2. Pembangunan API untuk sistem yang besar
+<br>
 3. Saat memerlukan pengolahan data seketika dan sinkronisasi cepat
 <br>
 Fungsi Node.js:
 <br>
 1. Pengembangan server-side
+<br>
 2. Real-time application
+<br>
 3. Sebagai API
+<br>
 4. Pengembangan aplikasi sisi klien dan server dengan JavaScript
 <br>
 <h>Komponen Node.js</h>
@@ -37,26 +42,21 @@ Kelebihan Node.js
 <p align="justify">1. Performa Tinggi
 <br>
 -> Kinerja tinggi dan kemampuan menangani banyak koneksi dengan bersamaan, berkat penggunaan mesin JavaScript V8 Chrome yang efisien</p>
-<br>
 <p align="justify">2. Pengembangan Cepat
 <br>
 -> Memungkinkan JavaScript di seluruh stack yang dapat mempercepat pengembangan aplikasi.</p>
-<br>
 <p align="justify">3. Skalabilitas
 <br>
 -> Scalable dan dapat dengan mudah dikonfigurasi untuk menangani peningkatan traffic. Microservices dan model event-driven Node.js membuatnya mudah untuk menskalakan aplikasi secara horizontal dengan menambahkan lebih banyak server.</p>
-<br>  
 <p align="justify">4. Efisiensi Sumber Daya
 <br>
--> Dikarenakan menggunakan sumber daya CPU dn memori secar efisien sehingga tepat untuk aplikasi yang perlu berjalan di server dengan sumber daya terbatas.</p>
-<br>   
+-> Dikarenakan menggunakan sumber daya CPU dn memori secar efisien sehingga tepat untuk aplikasi yang perlu berjalan di server dengan sumber daya terbatas.</p> 
 <p align="justify">5. Banyak Pilihan Framework & Library
 <br>-> Menjadikan dapat menemukan framework dan library untuk berbagai keperluan, seperti pengembangan web, API, microservices, dan real-time applications.</p>
-<br>  
 <p align="justify">6. Open Source
 <br>
 -> Platform gratis untuk digunakan dan dimodifikasi, ini juga berarti bahwa ada banyak komunitas pengembang yang berkontribusi pada pengembangan platform, sehingga dapat membantu meningkatkan kualitas dan kecepatan pengembangan.</p>
-<br>    
+<br>
 Kekurangan Node.js
 <br> 
 <p align="justify">1. Kurang Matang
