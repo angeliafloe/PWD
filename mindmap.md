@@ -1,5 +1,18 @@
 # Mindmap Tech Stack Backend: Node.Js
 
+### Apa Itu Node.Js?
+Node.Js adalah sebuah platform dengan basis JavaScript, di mana adalah lingkungan runtime yang memungkinkan eksekusi kode JavaScriptdi luar browser. Node.Js digunakan dalam mengembangkan aplikasi web dengan skala besar dan cepat, ini karena berbasis arsitektur event-driven dan non-blocking I/O. Efisiensi menjadikan Node.Js terkenal sebab memungkinkan pengembang memanfaatkan JavaScript untuk mengeksekusi kode di server. Node. Js turut banyak digunakan dalam menyokong aplikasi dengan penanganan data real-time, memungkinkan juga dalam pembuatan aplikasi yang skalabel dan berperforma tinggi.
+
+Meski Node.Js adalah platform basis JavaScript, keduanya memiliki perbedaan pada penggunaannya, yakni:
+JavaScript: untuk mengembangkan sisi klien dari aplikasi web
+Node.Js: untuk menjalankan JavaScript di sisi server
+
+Node.Js tepat digunakan pada saat:
+
+1. Melakukan pengembangan aplikasi real-time, seperti aplikasi chatting
+2. Pembangunan API untuk sistem yang besar
+3. Saat memerlukan pengolahan data seketika dan sinkronisasi cepat
+   
 ### 1. Komponen
   - Server-Side Languages
     - Node.js
