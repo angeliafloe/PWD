@@ -80,12 +80,18 @@ Kekurangan Node.js
 <br>
 <h1>Tren Node.js di 2025</h1>
 <br>
-- Muncul arsitektur tanpa server
-- Provider seperti AWS Lambda, Azure Functions, dan Google Cloud Functions memudahkan daari sebelumnya, di mana menerapkan aplikasi tanpa perlu khawatir infrastruktur yang mendasarinya. Dengan serverless dapat menimalisir biaya secara signifikaan dan menyesuaikan diri otomatis dengan permintaan aplikasi.
-- Microservices
-- Pemecahan aplikasi monolitik menjadi layanan lebih kecil dan independent yang dapat dikembangkan, digunakan, dan diskalakan secara mandiri. Pendekatan ini menawarkan kelincahan dan skalabilitas yang lebih besar, sehingga menjadi favorit di kalangan pengembang.
-- AI dan Machine Learning
-- Aplikasi yang memanfaatkan AI untuk memberi pengalaman yang lebih canggih dan personal, termasuk mesin rekomendasi, deteksi penipuan, atau analisis prediksi.
+<ul>
+<li> Developing Real-Time Apps Using Node.Js </li>
+- Aplikasi real-time untuk aktivitas online adalah pusat dari pengembangan Node.js. Dengan tingkat keterlibatan pengguna yang tinggi, aplikasi real-time menyediakan serangkaian fitur canggih serta kecepatan. Aplikasi ini mencakup fitur seperti obrolan real-time, integrasi media sosial, server iklan, fitur bursa saham, dan lainnya.
+<li> Deploying GraphQL in Node.Js Apps </li>
+- GraphQL adalah bahasa kueri yang memungkinkan akses mudah ke berbagai database melalui satu endpoint, menyederhanakan komunikasi dibanding metode tradisional. Dikembangkan oleh Facebook pada 2012 dan dirilis ke publik pada 2015, GraphQL sangat berguna dalam mengelola data besar dari berbagai sumber secara bersamaan.
+<li> Integrating Artificial Intelligence and Machine Learning (ML) </li>
+- Node.js mendukung teknologi AI dan ML dengan baik berkat arsitektur non-blocking, kemampuan real-time, efisiensi dalam streaming data, dan kompatibilitas dengan arsitektur mikroservices.
+<li>Serverless Architecture</li>
+- Node.js dikenal dengan arsitektur serverless, yang memungkinkan pengembangan aplikasi tanpa perlu mengelola server. Arsitektur ini mengurangi ketergantungan pada perangkat keras, menekan biaya pengembangan, serta meningkatkan kualitas kode dan fleksibilitas.
+<li>Microservice Architecture</li>
+- Dalam pendekatan arsitektur ini, aplikasi dibangun sebagai kumpulan layanan yang dapat diterapkan dan diskalakan secara independen, masing-masing menangani fungsi bisnis tertentu. Pendekatan ini selaras dengan pengembangan Node.js, memungkinkan bisnis berinovasi dan berkembang lebih efisien.
+</ul>
 <br><br>
 <h1>Perusahaan yang menggunakan Node.js</h1>
 <br>
